@@ -82,7 +82,7 @@ for i in i_which:
             mhw_total_events[j, i] = 0
         else:
             # Detect MHWs
-            mhws, clim = mhw.detect(time_o, sst1, climatologyPeriod=clim_b, pctile=90, Ly=Ly_set)
+            mhws, clim = mhw.detect(time_o, sst1, climatologyPeriod=clim_b, pctile=99, Ly=Ly_set)
             
             # Perform annual averaging of statistics
             mhwBlock = mhw.blockAverage(time_o, mhws, clim, temp=sst1)
