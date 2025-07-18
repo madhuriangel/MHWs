@@ -1,0 +1,8 @@
+species,Latitude,Longitude,parentarea_name,periodstart_date,periodend_date,reason_name,productionareastatusname,productionstatusestatusname
+Mytilus edulis,53.572,350.003,Ballinakill,2023-01-01,2023-01-08,Toxicity - AZP,Closed,54998
+Mytilus edulis,54.622,351.801,Donegal Harbour,2023-01-08,2023-01-15,Toxicity - AZP,Closed,55122
+Mytilus edulis,53.572,350.003,Ballinakill,2023-01-15,2023-02-05,Toxicity - AZP,Closed,55152
+Crassostrea gigas,52.138,350.081,Castlemaine Harbour,2023-06-11,2023-06-18,Toxicity PSP,Closed Pending,56263
+Mytilus edulis,51.822,350.178,Tahilla,2023-07-09,2023-07-16,Toxicity - DSP,Closed,56437
+Mytilus edulis,52.138,350.081,Castlemaine Harbour,2023-08-27,2023-09-03,Toxicity - PSP,Closed,56792
+Mytilus edulis,51.772,350.188,Kilmakilloge,2023-09-10,2023-09-17,Toxicity - AZP,Closed,56887

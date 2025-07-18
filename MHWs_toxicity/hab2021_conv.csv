@@ -1,0 +1,17 @@
+species,Latitude,Longitude,periodstart_date,periodend_date,parentarea_name,reason_name,productionareastatusname
+Mytilus edulis,51.756,350.124,04/07/2021,11/07/2021,Ardgroom,Toxicity - DSP,Closed
+Mytilus edulis,51.69,350.53,04/07/2021,11/07/2021,Bantry South,Toxicity - DSP,Closed
+Mytilus edulis,51.694,350.522,04/07/2021,11/07/2021,Bantry Middle,Toxicity - DSP,Closed
+Mytilus edulis,51.693,350.54,04/07/2021,12/09/2021,Newtown,Toxicity - DSP,Closed
+Mytilus edulis,52.138,350.081,04/07/2021,11/07/2021,Castlemaine Harbour,Toxicity - PSP,Closed
+Mytilus edulis,51.749,350.084,18/07/2021,25/07/2021,Gouleenacoush,Toxicity - DSP,Closed
+Mytilus edulis,53.615,350.167,25/07/2021,29/08/2021,Killary Outer,Toxicity - DSP,Closed
+Mytilus edulis,51.749,350.084,01/08/2021,08/08/2021,Gouleenacoush,Toxicity - DSP,Closed
+Mytilus edulis,51.682,350.276,01/08/2021,08/08/2021,Adrigole,Toxicity - DSP,Closed
+Mytilus edulis,51.568,350.324,01/08/2021,15/08/2021,Dunmanus Bay,Toxicity - DSP,Closed
+Mytilus edulis,51.718,350.533,22/08/2021,19/09/2021,Bantry North,Toxicity - DSP,Closed
+Mytilus edulis,51.69,350.53,22/08/2021,12/09/2021,Bantry South,Toxicity - DSP,Closed
+Mytilus edulis,51.694,350.522,22/08/2021,12/09/2021,Bantry Middle,Toxicity - DSP,Closed
+Mytilus edulis,51.822,350.178,22/08/2021,29/08/2021,Tahilla,Toxicity - DSP,Closed
+Mytilus edulis,51.568,350.324,05/09/2021,12/09/2021,Dunmanus Bay,Toxicity - DSP,Closed
+Mytilus edulis,51.822,350.178,19/09/2021,10/10/2021,Tahilla,Toxicity - DSP,Closed
